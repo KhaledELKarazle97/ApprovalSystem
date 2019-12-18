@@ -1,0 +1,21 @@
+.login{
+    margin-top:60px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width:350px;
+}
+h3{text-align: center;}
+.login input{
+    border-radius: 0px;
+}
+.login button{
+    border-radius: 0px;
+    margin-top:10px;
+    width:100%;
+}
+
+.container fieldset{
+    border-bottom: groove 2px;
+    padding:5px;
+}
